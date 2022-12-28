@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757931730107",
+    "project_id": "bim30603-ai2000284",
+    "storage_bucket": "bim30603-ai2000284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757931730107:android:063703a4b6f1040e57f59e",
+        "android_client_info": {
+          "package_name": "com.example.lab8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757931730107-j3lhaehc4ek1sbefdd3f9a1f7378eeid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdi952Li-mbIZPONu_jFBM2RwpxYUpysw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757931730107-j3lhaehc4ek1sbefdd3f9a1f7378eeid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
